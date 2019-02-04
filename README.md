@@ -16,3 +16,7 @@ In order to run the notebook file you must download the files bellow:<br>
   - This folder contains all the images used for training and testing our model, they are already separated into two different folders. 
 2) Download and extract `model_final_project.pt` to the project folder <a href="https://drive.google.com/open?id=1U4OSKNO1S3fdx4MsuoR2otKJVp6jT2SE">Link</a> 
   - This file contains the parameters values of our model trained if you desired to use it, otherwise you may train the model for the beggin.
+
+## Authors
+- Fernando Ferreira Cunha
+- Udacity
